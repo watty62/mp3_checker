@@ -3,6 +3,9 @@ checking mp3 library file names and ID3 tags
 
 This is a work in progress. 
 
+Requirements 
+The eyed3 module - "sudo pip install eyed3"
+
 Its function will be 
 
 * to walk through a very large collection of MP3 (and other music fomat) files
