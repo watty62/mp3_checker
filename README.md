@@ -18,4 +18,4 @@ I want it to highlight missing or contradictory tagging for later correction
 
 I might make it fix missing tags and grab folder.jpg images from somewhere.
 
-Lateest (limited working) version is V1.2 
+Latest (limited working) version is V1.3

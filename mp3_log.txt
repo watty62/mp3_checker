@@ -1,0 +1,955 @@
+=================================== 
+Genre: jazz 
+Artist: Charlie Watts Tentet 
+Genre: jazz 
+No of track: 8 
+Track 05: What's New
+ 
+Track 03: Anthony's Dice
+ 
+Track 02: Bemsha Swing
+ 
+Track 06: CW Announcement
+ 
+Track 08: A Single Petal Of A Rose
+ 
+Track 01: Main Stem
+ 
+Track 07: Tin Deo
+ 
+Track name doesn't match: Tin-Tin Deo
+Track 04: Roll 'Em Charlie
+ 
+=================================== 
+Genre: jazz 
+Artist: Charlie Watts Tentet 
+Genre: jazz 
+No of track: 5 
+Track 05: The Elvin Suite
+ 
+Track 03: Airto
+ 
+Track 02: Little Willie Leaps
+ 
+Track 01: Sunset of the Mockingbird
+ 
+Track 04: Chasing Reality (Interfaction)
+ 
+=================================== 
+Genre: jazz 
+Artist: Herb Geller 
+Genre: jazz 
+No of track: 12 
+Track 10: Heather On The Hill
+ 
+Track 01: Araphoe
+ 
+Track 08: I've Got A Feeling I'm Falling
+ 
+Track 02: Come Rain Or Come Shine
+ 
+Track 07: Blues In The Night
+ 
+Track 06: Two Of A Kind
+ 
+Track 12: Suppertime
+ 
+Track 11: Bewitched
+ 
+Track 04: The Answer Man
+ 
+Track 05: Love (You Magic Spell)
+ 
+Track 03: If I Were A Bell
+ 
+Track 09: Patterns
+ 
+=================================== 
+Genre: jazz 
+Artist: Herb Geller 
+Genre: jazz 
+No of track: 9 
+Track 05: Vone Mae
+ 
+Track 03: Gin For Fluegelhorns
+ 
+Track 08: You'd Be So Nice To Come Home To
+ 
+Track 06: Rockin' Chair
+ 
+Track 04: Tardi At Zardi's
+ 
+Track 02: Crazy He Calls Me
+ 
+Track 07: Owl Eyes
+ 
+Track 01: Outpost Incident
+ 
+=================================== 
+Genre: jazz 
+Artist: Stan Getz and Chet Baker 
+Genre: jazz 
+No of track: 5 
+Track 03:  Jordu
+ 
+Track name doesn't match: Jordu
+Track 04: Breed Apache
+ 
+Track name doesn't match: Half-Breed Apache
+Track 01:  I'll Remember April
+ 
+Track name doesn't match: I'll Remember April
+Track 02:  Ballad medley Autumn in New York  Embraceable You  What's New
+ 
+Track name doesn't match: Ballad medley: Autumn in New York / Embraceable You / What's New?
+=================================== 
+Genre: jazz 
+Artist: Stan Getz 
+Genre: jazz 
+No of track: 9 
+Track 03:  I Don't Stand A Ghost Of A Chance With You
+ 
+Track name doesn't match: I Don't Stand A Ghost Of A Chance With You
+Track 07:  Get Happy
+ 
+Track name doesn't match: Get Happy
+Track 04:  I Can't Believe That You're In Love With Me
+ 
+Track name doesn't match: I Can't Believe That You're In Love With Me
+Track 05:  Everything Happens To Me
+ 
+Track name doesn't match: Everything Happens To Me
+Track 08:  Jeepers Creepers
+ 
+Track name doesn't match: Jeepers Creepers
+Track 06:  Over The Rainbow
+ 
+Track name doesn't match: Over The Rainbow
+Track 02:  Without A Song
+ 
+Track name doesn't match: Without A Song
+Track 01:  Indiana
+ 
+Track name doesn't match: Indiana
+=================================== 
+Genre: jazz 
+Artist: Stan Getz - Zoot Sims - Al Cohn - Alan Eager - Brew Moore 
+Genre: jazz 
+No of track: 13 
+Track 02:  Five Brothers (Alternate Take)
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Five Brothers (Alternate Take)
+Track 03:  Battle Of The Saxes
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Battle Of The Saxes
+Track 05:  Four And One Moore (Alternate Take)
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Four And One Moore (Alternate Take)
+Track 07:  Battleground (Alternate Take)
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Battleground (Alternate Take)
+Track 09:  Zootcase
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Zootcase
+Track 04:  Four And One Moore
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Four And One Moore
+Track 01:  Five Brothers
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Five Brothers
+Track 10:  Tangerine
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Tangerine
+Track 11:  Morning Sun
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Morning Sun
+Track 06:  Battleground
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: Battleground
+Track 08:  The Red Door
+ 
+Artist doesn't match: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Track name doesn't match: The Red Door
+=================================== 
+Genre: jazz 
+Artist: Stan Getz and Albert Dailey 
+Genre: jazz 
+No of track: 7 
+Track 06: Spring Can Really Hang You Up the Most
+ 
+Track 07: 'Round Midnight
+ 
+Track 02: A Child is Born
+ 
+Track 03: Tune Up
+ 
+Track 01: Confirmation
+ 
+Track 05: A Night in Tunisia
+ 
+Track 04: Lover Man
+ 
+=================================== 
+Genre: jazz 
+Artist: Stan Tracey & Danny Moss 
+Genre: jazz 
+No of track: 11 
+Track 06: It's Easy To Remember
+ 
+Track 09: Drop Me Off In Harlem
+ 
+Track 11: Just Friends
+ 
+Track 02: Indian Summer
+ 
+Track 08: Day Dream
+ 
+Track 07: I Can't Give You Anything But Love
+ 
+Track 10: All Too Soon
+ 
+Track 05: Good Queen Bess
+ 
+Track 04: Gone With The Wind
+ 
+Track 01: Just You Just Me
+ 
+Track 03: I'm Beginning To See The Light
+ 
+=================================== 
+Genre: jazz 
+Artist: Duke Ellington and Johnny Hodges 
+Genre: jazz 
+No of track: 13 
+Track 10: Basin Street Blues (Williams)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track 02:  Fats Waller)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track name doesn't match: Squeeze Me (Clarence Wiliams - Fats Waller)
+Track 08: Bend One (Johnny Hodges)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track 09: You Need To Rock (Johnny Hodges)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track 06:  Ted Koehler)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track name doesn't match: Let's Fall In Love (Harold Arlen - Ted Koehler)
+Track 12: Loveless Love (Handy)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track 01: Stompy Jones (Duke Ellington)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track 05:  Brown)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track name doesn't match: Just A Memory (R. Henderson - B. DeSylva - L. Brown)
+Track 03: Big Shoe (Jimmy Hamilton)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track 04: Going Up (Duke Ellington)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track 07:  Johnny Hodges)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+Track name doesn't match: Ruint (Duke Ellington - Johnny Hodges)
+Track 11: Beale Street Blues (Handy)
+ 
+Artist doesn't match: Duke Ellington & Johnny Hodges
+=================================== 
+Genre: folk 
+Artist: Davey Graham 
+Genre: folk 
+No of track: 20 
+Track 06: Rock Me
+ 
+Track 03: Sally Free and Easy
+ 
+Track 10: The Cat Came Back
+ 
+Track 20: Bulgarian Dance
+ 
+Track 15: Buhaina Chant
+ 
+Track 12:  Neighbour
+ 
+Track name doesn't match: Neighbour, Neighbour
+Track 07: No Preacher Blues
+ 
+Track 17: Maajun
+ 
+Track 08: The Preacher
+ 
+Track 09: Sweet Home Chicago
+ 
+Track 02: Travelling Man
+ 
+Track 05: Work Song
+ 
+Track 11: Better Git Hit In Your Soul
+ 
+Track 04: I'm Ready
+ 
+Track 14: Skillet Good and Greasy
+ 
+Track 18: Miserlou
+ 
+Track 19: She Moved Through The Fair
+ 
+Track 01: Jubilation
+ 
+Track 13: So Tired
+ 
+Track 16:  Honey
+ 
+Track name doesn't match: Money, Honey
+=================================== 
+Genre: folk 
+Artist: Davey Graham 
+Genre: folk 
+No of track: 14 
+Track 01: Work Song
+ 
+Track 03: Buhaina Chant
+ 
+Track 04: Grroveyard
+ 
+Track 07: How Long Blues
+ 
+Track 08:  Blue Raga
+ 
+Track name doesn't match: Medley: She Moved Through The Bazarre, Blue Raga
+Track 05: Bouee In Em
+ 
+Track 10: Hey Bud Blues
+ 
+Track 14: Blue
+ 
+Track name doesn't match: Afro-Blue
+Track 13: Louisiana Blue
+ 
+Track 11: Buffalo
+ 
+Track 09: Miserlou
+ 
+Track 02: Cocaine
+ 
+Track 12: Jubilation
+ 
+Track 06: Gavotte or Bouree
+ 
+=================================== 
+Genre: classical 
+Artist: Keith Jarrett 
+Genre: classical 
+No of track: 42 
+Track 0106:  Gigue
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.1 in D minor, BWV 812 VI. Gigue
+Track 0203:  Sarabande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 4, BWV 815 In E-Flat Major: Sarabande
+Track 0117:  Menuet
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.3 in B minor, BWV 814 V. Menuet
+Track 0105:  Menuet II
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.1 in D minor, BWV 812 V. Menuet II
+Track 0114:  Courante
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.3 in B minor, BWV 814 II. Courante
+Track 0205:  Menuet
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 4, BWV 815 In E-Flat Major: Menuet
+Track 0104:  Menuet I
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.1 in D minor, BWV 812 IV. Menuet I
+Track 0103:  Sarabande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.1 in D minor, BWV 812 III. Sarabande
+Track 0107:  Allemande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.2 in C minor, BWV 813 I. Allemande
+Track 0116:  Anglaise
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.3 in B minor, BWV 814 IV. Anglaise
+Track 0210:  Sarabande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 5 BWV 816 In G Major: Sarabande
+Track 0101:  Allemande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.1 in D minor, BWV 812 I. Allemande
+Track 0111:  Menuet
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.2 in C minor, BWV 813 V. Menuet
+Track 0215:  Allemande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Allemande
+Track 0219:  Polonaise
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Polonaise
+Track 0222:  Gigue
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Gigue
+Track 0113:  Allemande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.3 in B minor, BWV 814 I. Allemande
+Track 0206:  Air
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 4, BWV 815 In E-Flat Major: Air
+Track 0209:  Courante
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 5 BWV 816 In G Major: Courante
+Track 0112:  Gigue
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.2 in C minor, BWV 813 VI. Gigue
+Track 0202:  Courante
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 4, BWV 815 In E-Flat Major: Courante
+Track 0220:  Bourree
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Bourree
+Track 0214:  Gigue
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 5 BWV 816 In G Major: Gigue
+Track 0221:  Menuet
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Menuet
+Track 0201:  Allemande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 4, BWV 815 In E-Flat Major: Allemande
+Track 0115:  Sarabande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.3 in B minor, BWV 814 III. Sarabande
+Track 0110:  Air
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.2 in C minor, BWV 813 IV. Air
+Track 0211:  Gavotte
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 5 BWV 816 In G Major: Gavotte
+Track 0217:  Sarabande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Sarabande
+Track 0212:  Bourree
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 5 BWV 816 In G Major: Bourree
+Track 0218:  Gavotte
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Gavotte
+Track 0118:  Menuet da capo
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.3 in B minor, BWV 814 VI. Trio, Menuet da capo
+Track 0119:  Gigue
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.3 in B minor, BWV 814 VII. Gigue
+Track 0108:  Courante
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.2 in C minor, BWV 813 II. Courante
+Track 0109:  Sarabande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.2 in C minor, BWV 813 III. Sarabande
+Track 0102:  Courante
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No.1 in D minor, BWV 812 II. Courante
+Track 0216:  Courante
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 6 BWV 817 In E Major: Courante
+Track 0207:  Gigue
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 4, BWV 815 In E-Flat Major: Gigue
+Track 0213:  Loure
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 5 BWV 816 In G Major: Loure
+Track 0208:  Allemande
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 5 BWV 816 In G Major: Allemande
+Track 0204:  Gavotte
+ 
+Album doesn't match: J.S. Bach. The French Suites
+Track name doesn't match: Suite No. 4, BWV 815 In E-Flat Major: Gavotte
+=================================== 
+Genre: classical 
+Artist: Keith Jarrett 
+Genre: classical 
+No of track: 24 
+Track 0105: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: V   D-dur
+Track 0111: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XI  F-dur
+Track 0201: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XIII, Fis-dur
+Track 0210: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XXII, b-moll
+Track 0208: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XX, a-moll
+Track 0103: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: III  Cis-dur
+Track 0109: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: IX  E-dur
+Track 0212: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XXIV, h-moll
+Track 0207: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XIX, A-dur
+Track 0211: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XXIII, H-dur
+Track 0108: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: VIII  dis-moll
+Track 0209: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XXI, B-dur
+Track 0205: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XVII, As-dur
+Track 0202: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XIV, fis-moll
+Track 0204: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XVI, g-moll
+Track 0102: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: II  c-moll
+Track 0203: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XV, G-dur
+Track 0106: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: VI  d-moll
+Track 0112: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XII  f-moll
+Track 0110: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: X   e-moll
+Track 0107: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: VII  Es-dur
+Track 0206: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: XVIII, gis-moll
+Track 0101: dur
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: I   C-dur
+Track 0104: moll
+ 
+Album doesn't match: J.S. Bach - Das Wohltemperierte Klavier, Buch II
+Track name doesn't match: IV  cis-moll
+=================================== 
+Genre: classical 
+Artist: Keith Jarrett 
+Genre: classical 
+No of track: 48 
+Track 0112: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: VI D-moll
+Track 0211: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XVIII  Gis-moll
+Track 0106: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: III Cis-dur
+Track 0103: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: II C-moll
+Track 0222: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXIII  H-dur
+Track 0115: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: VIII Dis-moll
+Track 0110: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: V D-dur
+Track 0109: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: V D-dur
+Track 0117: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: IX E-dur
+Track 0107: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: IV Cis-moll
+Track 0111: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: VI D-moll
+Track 0215: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XX  A-moll
+Track 0221: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXIII  H-dur
+Track 0208: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XVI  G-moll
+Track 0212: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XVIII  Gis-moll
+Track 0213: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XIX  A-dur
+Track 0205: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XV  G-dur
+Track 0116: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: VIII Dis-moll
+Track 0220: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXII  B-moll
+Track 0224: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXIV  H-moll
+Track 0204: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XIV  Fis-moll
+Track 0219: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXII  B-moll
+Track 0119: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: X E-moll
+Track 0202: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XIII  Fis-dur
+Track 0122: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: XI F-dur
+Track 0207: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XVI  G-moll
+Track 0114: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: VII Es-dur
+Track 0101: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: I C-dur
+Track 0120: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: X E-moll
+Track 0201: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XIII  Fis-dur
+Track 0217: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXI  B-dur
+Track 0124: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: XII F-moll
+Track 0118: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: IX E-dur
+Track 0108: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: IV Cis-moll
+Track 0203: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XIV  Fis-moll
+Track 0105: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: III Cis-dur
+Track 0214: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XIX  A-dur
+Track 0121: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: XI F-dur
+Track 0223: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXIV  H-moll
+Track 0210: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XVII  As-dur
+Track 0102: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: I C-dur
+Track 0113: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: VII Es-dur
+Track 0209: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XVII  As-dur
+Track 0104: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: II C-moll
+Track 0216: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XX  A-moll
+Track 0218: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XXI  B-dur
+Track 0206: dur
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 2)
+Track name doesn't match: XV  G-dur
+Track 0123: moll
+ 
+Album doesn't match: Das Wohltemperierte Klavier, Buch I (Disc 1)
+Track name doesn't match: XII F-moll
+=================================== 
+Genre: classical 
+Artist: Keith Jarrett 
+Genre: classical 
+No of track: 33 
+Track 22: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 21 (Canone alla Settima) (a 1 Clav.)
+Track 17: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 16 (Ouverture) (a 1 Clav.)
+Track 24: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 23 (a 2 Clav.)
+Track 11:  Clav)
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 10 (Fughetta) (a 1 Clav)
+Track 13: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 12 (Canone alla Quarta) (a 1 Clav.)
+Track 05: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 4 (a 1 Clav.)
+Track 14: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 13 (a 2 Clav.)
+Track 31: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 30 (Quodlibet) (a 1 Clav.)
+Track 27: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 26 (a 2 Clav.)
+Track 12: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 11 (a 2 Clav.)
+Track 08: ) (Al tempo di Giga)
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 7 (a 1 ovvero 2 Clav.) (Al tempo di Giga)
+Track 25: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 24 (Canone all'Ottava) (a 1 Clav.)
+Track 28: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 27 (Canone alla Nona) (a 2 Clav.)
+Track 29: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 28 (a 2 Clav.)
+Track 32:  Aria
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Aria
+Track 10: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 9 (Canone alla Terza.) (a 1 Clav.)
+Track 09: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 8 (a 2 Clav.)
+Track 20: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 19 (a 1 Clav.)
+Track 23:  Clav) (Alla breve)
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 22 (a 1 Clav) (Alla breve)
+Track 03: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 2 (a 1 Clav.)
+Track 19: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 18 (Canone alla Sesta) (a 1 Clav.)
+Track 01:  Aria
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Aria
+Track 04: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 3 (Canone all'Unisono) (a 1 Clav.)
+Track 16:  Clav Andante)
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 15 (Canone alla Quinta) (a 1 Clav Andante)
+Track 15: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 14 (a 2 Clav.)
+Track 06: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 5 (a 1 ovvero 2 Clav.)
+Track 07: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 6 (Canone alla Seconda) (a 1 Clav.)
+Track 02: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 1 (a 1 Clav.)
+Track 30: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 29 (a 1 ovvero 2 Clav.)
+Track 18: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 17 (a 2 Clav.)
+Track 21: )
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 20 (a 2 Clav.)
+Track 26: ) (Adagio)
+ 
+Album doesn't match: J. S. Bach. Goldberg Variations
+Track name doesn't match: Variatio 25 (a 2 Clav.) (Adagio)
