@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 import os, re, eyed3
 
 test = True
