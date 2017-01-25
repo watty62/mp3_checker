@@ -16,7 +16,7 @@ f = open ("mp3_list.tsv", 'w')
 f.write ("Artist \t Album" + "\n")
 
 def split_print (instring):
-    
+    print ("working")
     sub_paths = instring.split ("/")
     if test:
         sub_paths.remove('sandisk2')
@@ -71,6 +71,7 @@ print_tune_files(tune_directory)
 # We are done. Exit now.
 #print('\n -- {0} tune File(s) found in directory {1} --'.format \
 #    (print_tune_files.counter, tune_directory))
+print ("almost finished")
 sorted_list = sorted(album_list)
 for albm in sorted_list:
     f.write ( albm[0] + "\t" + albm[1] + "\n")
