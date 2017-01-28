@@ -1,7 +1,15 @@
 # mp3_checker
 checking mp3 library file names and ID3 tags
 
-This is a work in progress. 
+This is a work in progress (2017-Jan-28)
+
+At the moment I have two working routines: 
+* album_lister2.py which traverses the directory structure, extracts artist name and ablum name and writes those to a TSV file (I avoided CSV as several album titles contain commas), and
+* update_db.py which reads the TSV file and processes the contents. If Sthe QLite database does not exist it creates one. It reads line by line (and traps any non-standard characters - printing those out for correction) then checks if the artist exists, if not creates one, then inserts the album into the database.
+
+I wanted to complete this functionality so that I can use the database for a Jazz Bot project. 
+
+I intend to come back and complete everthing else, below.
 
 Requirements 
 The eyed3 module - "sudo pip install eyed3"
