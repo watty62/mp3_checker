@@ -41,21 +41,7 @@ def print_tune_files(tune_directory, tune_extensions=['mp3', 'mp4', 'm4a',]):
         filepath = os.path.join(tune_directory, filename.lower())
  
         # Check if it's a normal file or directory
-        if os.path.isfile(filepath):
- 
-            # Check if the file has an extension of typical video files
-            for tune_extension in tune_extensions:
-                # Not a tune file, ignore
-                if not filepath.endswith(tune_extension):
-                    continue
- 
-                # We have got a music file! Increment the counter
-                #print_tune_files.counter += 1
- 
-                # Print it's name
-                #print('{0}'.format(filepath))
-                #f.write('{0}'.format(filepath) + "\n|")
-        elif os.path.isdir(filepath):
+        if os.path.isdir(filepath):
             # We got a directory, enter into it for further processing
             print_tune_files(filepath)
 
