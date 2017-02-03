@@ -65,7 +65,7 @@ for entry in myalbums:
         artist_id = cur.fetchone()[0]
 
         cur.execute('''INSERT OR IGNORE INTO Album (title, artist_id) 
-            VALUES ( ?, ? )''', ( album, artist_id ) )
+            VALUES ( ?, ? )''', ( album.strip(), artist_id ) )
 
         conn.commit()
 
