@@ -36,10 +36,9 @@ for root, dirs, files in os.walk(top, topdown=False):
     genre = root_path [5]
     artist = root_path [6]
     album = root_path [7]
-    f.write ("=================================== \n")
+    f.write ("=================================== \n\n")
     f.write ("Genre: " + genre + " \n")
     f.write ("Artist: " + artist + " \n")
-    f.write ("Genre: " + genre + " \n")
     f.write ("No of track: " +  str(len (files)) + " \n")
 
     for fl in files:
@@ -57,14 +56,14 @@ for root, dirs, files in os.walk(top, topdown=False):
             #print " Track name: ", track_name
             (id_artist, id_album, id_title, id_length, id_date, id_tracknum) = check_tags (currentFile)     
 
-            f.write ("Track " + track_no +": " + track_name +"\n \n")
+            f.write ("Track " + track_no +": " + track_name +"\n")
 
-            if id_artist != artist :
-              f.write("Artist doesn't match: " + id_artist+ "\n")
-            if id_album != album :
-              f.write("Album doesn't match: " + id_album+ "\n")
-            if id_title != track_name :
-              f.write("Track name doesn't match: " + id_title+ "\n")
+            if id_artist.strip().lower() != artist.strip().lower :
+              f.write("Filepath artist doesn't match ID3 Artist: " + id_artist+ "\n\n")
+            if id_album.strip().lower() != album.strip().lower() :
+              f.write("Filepath album doesn't match ID3 album: " + id_album+ "\n\n")
+            if id_title.strip().lower() != track_name.strip().lower() :
+              f.write("Filepath track name doesn't match ID3 title: " + id_title+ "\n\n")
 
 f.close()
 
