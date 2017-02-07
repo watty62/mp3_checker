@@ -1,732 +1,732 @@
 =================================== 
 
 Genre: jazz 
-Artist: Charlie Watts Tentet 
+Artist: 'Charlie Watts Tentet' 
 No of track: 8 
 Track 05: What's New
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 03: Anthony's Dice
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 02: Bemsha Swing
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 06: CW Announcement
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 08: A Single Petal Of A Rose
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 01: Main Stem
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 07: Tin Deo
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Filepath track name doesn't match ID3 title: Tin-Tin Deo
 
 Track 04: Roll 'Em Charlie
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 =================================== 
 
 Genre: jazz 
-Artist: Charlie Watts Tentet 
+Artist: 'Charlie Watts Tentet' 
 No of track: 5 
 Track 05: The Elvin Suite
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 03: Airto
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 02: Little Willie Leaps
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 01: Sunset of the Mockingbird
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 Track 04: Chasing Reality (Interfaction)
-Filepath artist doesn't match ID3 Artist: Charlie Watts Tentet
+Filepath artist doesn't match ID3 Artist: 'Charlie Watts Tentet'
 
 =================================== 
 
 Genre: jazz 
-Artist: Herb Geller 
+Artist: 'Herb Geller' 
 No of track: 12 
 Track 10: Heather On The Hill
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 01: Araphoe
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 08: I've Got A Feeling I'm Falling
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 02: Come Rain Or Come Shine
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 07: Blues In The Night
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 06: Two Of A Kind
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 12: Suppertime
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 11: Bewitched
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 04: The Answer Man
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 05: Love (You Magic Spell)
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 03: If I Were A Bell
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 09: Patterns
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 =================================== 
 
 Genre: jazz 
-Artist: Herb Geller 
+Artist: 'Herb Geller' 
 No of track: 9 
 Track 05: Vone Mae
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 03: Gin For Fluegelhorns
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 08: You'd Be So Nice To Come Home To
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 06: Rockin' Chair
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 04: Tardi At Zardi's
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 02: Crazy He Calls Me
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 07: Owl Eyes
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 Track 01: Outpost Incident
-Filepath artist doesn't match ID3 Artist: Herb Geller
+Filepath artist doesn't match ID3 Artist: 'Herb Geller'
 
 =================================== 
 
 Genre: jazz 
-Artist: Stan Getz and Chet Baker 
+Artist: 'Stan Getz and Chet Baker' 
 No of track: 5 
 Track 03:  Jordu
-Filepath artist doesn't match ID3 Artist: Stan Getz and Chet Baker
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Chet Baker'
 
 Track 04: Breed Apache
-Filepath artist doesn't match ID3 Artist: Stan Getz and Chet Baker
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Chet Baker'
 
 Filepath track name doesn't match ID3 title: Half-Breed Apache
 
 Track 01:  I'll Remember April
-Filepath artist doesn't match ID3 Artist: Stan Getz and Chet Baker
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Chet Baker'
 
 Track 02:  Ballad medley Autumn in New York  Embraceable You  What's New
-Filepath artist doesn't match ID3 Artist: Stan Getz and Chet Baker
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Chet Baker'
 
 Filepath track name doesn't match ID3 title: Ballad medley: Autumn in New York / Embraceable You / What's New?
 
 =================================== 
 
 Genre: jazz 
-Artist: Stan Getz 
+Artist: 'Stan Getz' 
 No of track: 9 
 Track 03:  I Don't Stand A Ghost Of A Chance With You
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 Track 07:  Get Happy
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 Track 04:  I Can't Believe That You're In Love With Me
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 Track 05:  Everything Happens To Me
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 Track 08:  Jeepers Creepers
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 Track 06:  Over The Rainbow
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 Track 02:  Without A Song
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 Track 01:  Indiana
-Filepath artist doesn't match ID3 Artist: Stan Getz
+Filepath artist doesn't match ID3 Artist: 'Stan Getz'
 
 =================================== 
 
 Genre: jazz 
-Artist: Stan Getz - Zoot Sims - Al Cohn - Alan Eager - Brew Moore 
+Artist: 'Stan Getz - Zoot Sims - Al Cohn - Alan Eager - Brew Moore' 
 No of track: 13 
 Track 02:  Five Brothers (Alternate Take)
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 03:  Battle Of The Saxes
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 05:  Four And One Moore (Alternate Take)
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 07:  Battleground (Alternate Take)
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 09:  Zootcase
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 04:  Four And One Moore
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 01:  Five Brothers
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 10:  Tangerine
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 11:  Morning Sun
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 06:  Battleground
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 Track 08:  The Red Door
-Filepath artist doesn't match ID3 Artist: Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore
+Filepath artist doesn't match ID3 Artist: 'Stan Getz-Zoot Sims-Al Cohn- Alan Eager - Brew Moore'
 
 =================================== 
 
 Genre: jazz 
-Artist: Stan Getz and Albert Dailey 
+Artist: 'Stan Getz and Albert Dailey' 
 No of track: 7 
 Track 06: Spring Can Really Hang You Up the Most
-Filepath artist doesn't match ID3 Artist: Stan Getz and Albert Dailey
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Albert Dailey'
 
 Track 07: 'Round Midnight
-Filepath artist doesn't match ID3 Artist: Stan Getz and Albert Dailey
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Albert Dailey'
 
 Track 02: A Child is Born
-Filepath artist doesn't match ID3 Artist: Stan Getz and Albert Dailey
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Albert Dailey'
 
 Track 03: Tune Up
-Filepath artist doesn't match ID3 Artist: Stan Getz and Albert Dailey
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Albert Dailey'
 
 Track 01: Confirmation
-Filepath artist doesn't match ID3 Artist: Stan Getz and Albert Dailey
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Albert Dailey'
 
 Track 05: A Night in Tunisia
-Filepath artist doesn't match ID3 Artist: Stan Getz and Albert Dailey
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Albert Dailey'
 
 Track 04: Lover Man
-Filepath artist doesn't match ID3 Artist: Stan Getz and Albert Dailey
+Filepath artist doesn't match ID3 Artist: 'Stan Getz and Albert Dailey'
 
 =================================== 
 
 Genre: jazz 
-Artist: Stan Tracey & Danny Moss 
+Artist: 'Stan Tracey & Danny Moss' 
 No of track: 11 
 Track 06: It's Easy To Remember
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 09: Drop Me Off In Harlem
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 11: Just Friends
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 02: Indian Summer
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 08: Day Dream
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 07: I Can't Give You Anything But Love
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 10: All Too Soon
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 05: Good Queen Bess
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 04: Gone With The Wind
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 01: Just You Just Me
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 Track 03: I'm Beginning To See The Light
-Filepath artist doesn't match ID3 Artist: Stan Tracey & Danny Moss
+Filepath artist doesn't match ID3 Artist: 'Stan Tracey & Danny Moss'
 
 =================================== 
 
 Genre: jazz 
-Artist: Duke Ellington and Johnny Hodges 
+Artist: 'Duke Ellington and Johnny Hodges' 
 No of track: 13 
 Track 10: Basin Street Blues (Williams)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Track 02:  Fats Waller)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Filepath track name doesn't match ID3 title: Squeeze Me (Clarence Wiliams - Fats Waller)
 
 Track 08: Bend One (Johnny Hodges)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Track 09: You Need To Rock (Johnny Hodges)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Track 06:  Ted Koehler)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Filepath track name doesn't match ID3 title: Let's Fall In Love (Harold Arlen - Ted Koehler)
 
 Track 12: Loveless Love (Handy)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Track 01: Stompy Jones (Duke Ellington)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Track 05:  Brown)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Filepath track name doesn't match ID3 title: Just A Memory (R. Henderson - B. DeSylva - L. Brown)
 
 Track 03: Big Shoe (Jimmy Hamilton)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Track 04: Going Up (Duke Ellington)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Track 07:  Johnny Hodges)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 Filepath track name doesn't match ID3 title: Ruint (Duke Ellington - Johnny Hodges)
 
 Track 11: Beale Street Blues (Handy)
-Filepath artist doesn't match ID3 Artist: Duke Ellington & Johnny Hodges
+Filepath artist doesn't match ID3 Artist: 'Duke Ellington & Johnny Hodges'
 
 =================================== 
 
 Genre: folk 
-Artist: Davey Graham 
+Artist: 'Davey Graham' 
 No of track: 20 
 Track 06: Rock Me
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 03: Sally Free and Easy
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 10: The Cat Came Back
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 20: Bulgarian Dance
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 15: Buhaina Chant
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 12:  Neighbour
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Filepath track name doesn't match ID3 title: Neighbour, Neighbour
 
 Track 07: No Preacher Blues
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 17: Maajun
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 08: The Preacher
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 09: Sweet Home Chicago
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 02: Travelling Man
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 05: Work Song
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 11: Better Git Hit In Your Soul
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 04: I'm Ready
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 14: Skillet Good and Greasy
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 18: Miserlou
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 19: She Moved Through The Fair
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 01: Jubilation
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 13: So Tired
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 16:  Honey
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Filepath track name doesn't match ID3 title: Money, Honey
 
 =================================== 
 
 Genre: folk 
-Artist: Davey Graham 
+Artist: 'Davey Graham' 
 No of track: 14 
 Track 01: Work Song
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 03: Buhaina Chant
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 04: Grroveyard
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 07: How Long Blues
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 08:  Blue Raga
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Filepath track name doesn't match ID3 title: Medley: She Moved Through The Bazarre, Blue Raga
 
 Track 05: Bouee In Em
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 10: Hey Bud Blues
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 14: Blue
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Filepath track name doesn't match ID3 title: Afro-Blue
 
 Track 13: Louisiana Blue
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 11: Buffalo
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 09: Miserlou
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 02: Cocaine
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 12: Jubilation
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 Track 06: Gavotte or Bouree
-Filepath artist doesn't match ID3 Artist: Davey Graham
+Filepath artist doesn't match ID3 Artist: 'Davey Graham'
 
 =================================== 
 
 Genre: classical 
-Artist: Keith Jarrett 
+Artist: 'Keith Jarrett' 
 No of track: 42 
 Track 0106:  Gigue
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.1 in D minor, BWV 812 VI. Gigue
 
 Track 0203:  Sarabande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 4, BWV 815 In E-Flat Major: Sarabande
 
 Track 0117:  Menuet
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.3 in B minor, BWV 814 V. Menuet
 
 Track 0105:  Menuet II
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.1 in D minor, BWV 812 V. Menuet II
 
 Track 0114:  Courante
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.3 in B minor, BWV 814 II. Courante
 
 Track 0205:  Menuet
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 4, BWV 815 In E-Flat Major: Menuet
 
 Track 0104:  Menuet I
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.1 in D minor, BWV 812 IV. Menuet I
 
 Track 0103:  Sarabande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.1 in D minor, BWV 812 III. Sarabande
 
 Track 0107:  Allemande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.2 in C minor, BWV 813 I. Allemande
 
 Track 0116:  Anglaise
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.3 in B minor, BWV 814 IV. Anglaise
 
 Track 0210:  Sarabande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 5 BWV 816 In G Major: Sarabande
 
 Track 0101:  Allemande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.1 in D minor, BWV 812 I. Allemande
 
 Track 0111:  Menuet
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.2 in C minor, BWV 813 V. Menuet
 
 Track 0215:  Allemande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Allemande
 
 Track 0219:  Polonaise
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Polonaise
 
 Track 0222:  Gigue
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Gigue
 
 Track 0113:  Allemande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.3 in B minor, BWV 814 I. Allemande
 
 Track 0206:  Air
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 4, BWV 815 In E-Flat Major: Air
 
 Track 0209:  Courante
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 5 BWV 816 In G Major: Courante
 
 Track 0112:  Gigue
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.2 in C minor, BWV 813 VI. Gigue
 
 Track 0202:  Courante
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 4, BWV 815 In E-Flat Major: Courante
 
 Track 0220:  Bourree
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Bourree
 
 Track 0214:  Gigue
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 5 BWV 816 In G Major: Gigue
 
 Track 0221:  Menuet
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Menuet
 
 Track 0201:  Allemande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 4, BWV 815 In E-Flat Major: Allemande
 
 Track 0115:  Sarabande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.3 in B minor, BWV 814 III. Sarabande
 
 Track 0110:  Air
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.2 in C minor, BWV 813 IV. Air
 
 Track 0211:  Gavotte
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 5 BWV 816 In G Major: Gavotte
 
 Track 0217:  Sarabande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Sarabande
 
 Track 0212:  Bourree
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 5 BWV 816 In G Major: Bourree
 
 Track 0218:  Gavotte
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Gavotte
 
 Track 0118:  Menuet da capo
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.3 in B minor, BWV 814 VI. Trio, Menuet da capo
 
 Track 0119:  Gigue
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.3 in B minor, BWV 814 VII. Gigue
 
 Track 0108:  Courante
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.2 in C minor, BWV 813 II. Courante
 
 Track 0109:  Sarabande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.2 in C minor, BWV 813 III. Sarabande
 
 Track 0102:  Courante
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No.1 in D minor, BWV 812 II. Courante
 
 Track 0216:  Courante
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 6 BWV 817 In E Major: Courante
 
 Track 0207:  Gigue
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 4, BWV 815 In E-Flat Major: Gigue
 
 Track 0213:  Loure
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 5 BWV 816 In G Major: Loure
 
 Track 0208:  Allemande
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
 Filepath track name doesn't match ID3 title: Suite No. 5 BWV 816 In G Major: Allemande
 
 Track 0204:  Gavotte
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach. The French Suites
 
@@ -735,171 +735,171 @@ Filepath track name doesn't match ID3 title: Suite No. 4, BWV 815 In E-Flat Majo
 =================================== 
 
 Genre: classical 
-Artist: Keith Jarrett 
+Artist: 'Keith Jarrett' 
 No of track: 24 
 Track 0105: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: V   D-dur
 
 Track 0111: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XI  F-dur
 
 Track 0201: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XIII, Fis-dur
 
 Track 0210: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XXII, b-moll
 
 Track 0208: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XX, a-moll
 
 Track 0103: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: III  Cis-dur
 
 Track 0109: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: IX  E-dur
 
 Track 0212: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XXIV, h-moll
 
 Track 0207: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XIX, A-dur
 
 Track 0211: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XXIII, H-dur
 
 Track 0108: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: VIII  dis-moll
 
 Track 0209: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XXI, B-dur
 
 Track 0205: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XVII, As-dur
 
 Track 0202: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XIV, fis-moll
 
 Track 0204: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XVI, g-moll
 
 Track 0102: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: II  c-moll
 
 Track 0203: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XV, G-dur
 
 Track 0106: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: VI  d-moll
 
 Track 0112: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XII  f-moll
 
 Track 0110: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: X   e-moll
 
 Track 0107: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: VII  Es-dur
 
 Track 0206: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: XVIII, gis-moll
 
 Track 0101: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
 Filepath track name doesn't match ID3 title: I   C-dur
 
 Track 0104: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J.S. Bach - Das Wohltemperierte Klavier, Buch II
 
@@ -908,339 +908,339 @@ Filepath track name doesn't match ID3 title: IV  cis-moll
 =================================== 
 
 Genre: classical 
-Artist: Keith Jarrett 
+Artist: 'Keith Jarrett' 
 No of track: 48 
 Track 0112: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: VI D-moll
 
 Track 0211: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XVIII  Gis-moll
 
 Track 0106: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: III Cis-dur
 
 Track 0103: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: II C-moll
 
 Track 0222: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXIII  H-dur
 
 Track 0115: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: VIII Dis-moll
 
 Track 0110: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: V D-dur
 
 Track 0109: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: V D-dur
 
 Track 0117: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: IX E-dur
 
 Track 0107: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: IV Cis-moll
 
 Track 0111: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: VI D-moll
 
 Track 0215: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XX  A-moll
 
 Track 0221: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXIII  H-dur
 
 Track 0208: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XVI  G-moll
 
 Track 0212: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XVIII  Gis-moll
 
 Track 0213: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XIX  A-dur
 
 Track 0205: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XV  G-dur
 
 Track 0116: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: VIII Dis-moll
 
 Track 0220: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXII  B-moll
 
 Track 0224: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXIV  H-moll
 
 Track 0204: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XIV  Fis-moll
 
 Track 0219: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXII  B-moll
 
 Track 0119: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: X E-moll
 
 Track 0202: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XIII  Fis-dur
 
 Track 0122: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: XI F-dur
 
 Track 0207: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XVI  G-moll
 
 Track 0114: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: VII Es-dur
 
 Track 0101: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: I C-dur
 
 Track 0120: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: X E-moll
 
 Track 0201: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XIII  Fis-dur
 
 Track 0217: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXI  B-dur
 
 Track 0124: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: XII F-moll
 
 Track 0118: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: IX E-dur
 
 Track 0108: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: IV Cis-moll
 
 Track 0203: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XIV  Fis-moll
 
 Track 0105: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: III Cis-dur
 
 Track 0214: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XIX  A-dur
 
 Track 0121: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: XI F-dur
 
 Track 0223: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXIV  H-moll
 
 Track 0210: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XVII  As-dur
 
 Track 0102: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: I C-dur
 
 Track 0113: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: VII Es-dur
 
 Track 0209: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XVII  As-dur
 
 Track 0104: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
 Filepath track name doesn't match ID3 title: II C-moll
 
 Track 0216: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XX  A-moll
 
 Track 0218: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XXI  B-dur
 
 Track 0206: dur
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 2)
 
 Filepath track name doesn't match ID3 title: XV  G-dur
 
 Track 0123: moll
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: Das Wohltemperierte Klavier, Buch I (Disc 1)
 
@@ -1249,223 +1249,223 @@ Filepath track name doesn't match ID3 title: XII F-moll
 =================================== 
 
 Genre: classical 
-Artist: Keith Jarrett 
+Artist: 'Keith Jarrett' 
 No of track: 33 
 Track 22: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 21 (Canone alla Settima) (a 1 Clav.)
 
 Track 17: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 16 (Ouverture) (a 1 Clav.)
 
 Track 24: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 23 (a 2 Clav.)
 
 Track 11:  Clav)
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 10 (Fughetta) (a 1 Clav)
 
 Track 13: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 12 (Canone alla Quarta) (a 1 Clav.)
 
 Track 05: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 4 (a 1 Clav.)
 
 Track 14: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 13 (a 2 Clav.)
 
 Track 31: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 30 (Quodlibet) (a 1 Clav.)
 
 Track 27: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 26 (a 2 Clav.)
 
 Track 12: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 11 (a 2 Clav.)
 
 Track 08: ) (Al tempo di Giga)
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 7 (a 1 ovvero 2 Clav.) (Al tempo di Giga)
 
 Track 25: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 24 (Canone all'Ottava) (a 1 Clav.)
 
 Track 28: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 27 (Canone alla Nona) (a 2 Clav.)
 
 Track 29: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 28 (a 2 Clav.)
 
 Track 32:  Aria
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Track 10: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 9 (Canone alla Terza.) (a 1 Clav.)
 
 Track 09: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 8 (a 2 Clav.)
 
 Track 20: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 19 (a 1 Clav.)
 
 Track 23:  Clav) (Alla breve)
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 22 (a 1 Clav) (Alla breve)
 
 Track 03: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 2 (a 1 Clav.)
 
 Track 19: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 18 (Canone alla Sesta) (a 1 Clav.)
 
 Track 01:  Aria
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Track 04: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 3 (Canone all'Unisono) (a 1 Clav.)
 
 Track 16:  Clav Andante)
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 15 (Canone alla Quinta) (a 1 Clav Andante)
 
 Track 15: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 14 (a 2 Clav.)
 
 Track 06: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 5 (a 1 ovvero 2 Clav.)
 
 Track 07: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 6 (Canone alla Seconda) (a 1 Clav.)
 
 Track 02: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 1 (a 1 Clav.)
 
 Track 30: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 29 (a 1 ovvero 2 Clav.)
 
 Track 18: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 17 (a 2 Clav.)
 
 Track 21: )
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
 Filepath track name doesn't match ID3 title: Variatio 20 (a 2 Clav.)
 
 Track 26: ) (Adagio)
-Filepath artist doesn't match ID3 Artist: Keith Jarrett
+Filepath artist doesn't match ID3 Artist: 'Keith Jarrett'
 
 Filepath album doesn't match ID3 album: J. S. Bach. Goldberg Variations
 
