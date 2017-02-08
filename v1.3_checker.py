@@ -4,7 +4,6 @@ import os, re, eyed3
 test = True
 
 if test: 
-  #temp path to sample data
   top = "/Volumes/sandisk2/music/MP3s"
 else: 
   top = "/Volumes/music/MP3s/jazz"
@@ -40,7 +39,7 @@ for root, dirs, files in os.walk(top, topdown=False):
     #f.write ("Genre: " + genre + " \n")
     #f.write ("Artist: '" + artist + "' \n")
     #f.write ("No of track: " +  str(len (files)) + " \n")
-    f.write ("Artist \t Album \t Trackno \t Title \t Artist_match \t Album_match \t track_match \n"  )
+    f.write ("Artist \t Album \t Trackno \t Title \t ID3_artist \t ID3_album \t ID3_track \t Artist_match \t Album_match \t track_match \n"  )
     for fl in files:
       #print fl
       album_match = True
@@ -52,7 +51,8 @@ for root, dirs, files in os.walk(top, topdown=False):
       else:
         currentFile=os.path.join(root, fl)
         for FileType in FileTypes:
-          if str.endswith(fl,FileType):
+          if str.endswith(fl,FileType) and not str.startswith(fl, "."):
+            print fl
             
             track_no = re.findall('^(\d+).', fl)[0]
             #print " Track No: ", track_no
@@ -62,7 +62,7 @@ for root, dirs, files in os.walk(top, topdown=False):
             
             #f.write ("Track " + track_no +": " + track_name +"\n")
 
-            if id_artist.strip().lower() != artist.strip().lower :
+            if id_artist.strip().lower() != artist.strip().lower() :
               artist_match = False
               #f.write("Filepath artist doesn't match ID3 Artist: '" + id_artist+ "'\n\n")
             if id_album.strip().lower() != album.strip().lower() :
@@ -72,6 +72,6 @@ for root, dirs, files in os.walk(top, topdown=False):
               track_match = False 
               #f.write("Filepath track name doesn't match ID3 title: " + id_title+ "\n\n")
             
-            f.write(artist + "\t" + album + "\t" + id_tracknum + "\t" + track_name + "\t" + str(artist_match) + "\t" + str(album_match) + "\t" + str(track_match) + "\n" )
+            f.write(artist + "\t" + album + "\t" + id_tracknum + "\t" + track_name + "\t" + id_artist + "\t" + id_album + "\t" + id_title + "\t" + str(artist_match) + "\t" + str(album_match) + "\t" + str(track_match) + "\n" )
 f.close()
 
